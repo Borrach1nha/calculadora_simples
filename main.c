@@ -3,6 +3,7 @@
 
 int main () {
 	int a, b, resultado, opcao;
+	print("penis");
     printf("bem-vindo a calculadora de soma e subtracao\n");
 	printf("entre com o primeiro valor: ");
 	scanf("%d", &a);
